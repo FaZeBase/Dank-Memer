@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dank-memer/Dank-Memer.git"
+    "url": "git+https://github.com/FaZeBase/Dank-Memer.git"
   },
   "keywords": [
     "discord",
@@ -20,9 +20,9 @@
   "author": "melmsie",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/dank-memer/Dank-Memer/issues"
+    "url": "https://github.com/FaZeBase/Dank-Memer/issues"
   },
-  "homepage": "https://github.com/dank-memer/Dank-Memer#readme",
+  "homepage": "https://github.com/FaZeBase/Dank-Memer#readme",
   "dependencies": {
     "asciiart-logo": "^0.1.7",
     "cheerio": "^1.0.0-rc.2",
